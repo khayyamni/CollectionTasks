@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\bin\Debug\net6.0\Collection-Delegate.exe
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\bin\Debug\net6.0\Collection-Delegate.deps.json
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\bin\Debug\net6.0\Collection-Delegate.runtimeconfig.json
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\bin\Debug\net6.0\Collection-Delegate.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\bin\Debug\net6.0\Collection-Delegate.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\Collection-Delegate.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\Collection-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\Collection-Delegate.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\Collection-Delegate.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\Collection-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\Collection-Delegate.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\refint\Collection-Delegate.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\Collection-Delegate.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\Collection-Delegate.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Collection,Delegate\Collection-Delegate\Collection-Delegate\obj\Debug\net6.0\ref\Collection-Delegate.dll
